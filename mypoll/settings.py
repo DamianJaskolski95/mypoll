@@ -65,7 +65,6 @@ TEMPLATES = [
             ],
         },
     },
-path() argument: view¶
 ]
 
 WSGI_APPLICATION = 'mypoll.wsgi.application'
